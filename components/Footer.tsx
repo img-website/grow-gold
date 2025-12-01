@@ -28,16 +28,18 @@ const Footer: React.FC = () => {
             <h4 className="text-white font-semibold mb-6">Platform</h4>
             <ul className="space-y-4 text-sm text-gray-500">
               <li><Link to="/" className="hover:text-gold-500 transition-colors">Home</Link></li>
-              <li><a href="#" className="hover:text-gold-500 transition-colors">Buy Gold</a></li>
+              {/* <li><a href="#" className="hover:text-gold-500 transition-colors">Buy Gold</a></li>
               <li><a href="#" className="hover:text-gold-500 transition-colors">Sell Gold</a></li>
-              <li><a href="#" className="hover:text-gold-500 transition-colors">Live Rates</a></li>
+              <li><a href="#" className="hover:text-gold-500 transition-colors">Live Rates</a></li> */}
             </ul>
           </div>
 
           <div>
             <h4 className="text-white font-semibold mb-6">Company</h4>
             <ul className="space-y-4 text-sm text-gray-500">
-              <li><a href="#" className="hover:text-gold-500 transition-colors">About Us</a></li>
+              <li><Link to="/about-us" className="hover:text-gold-500 transition-colors">About Us</Link></li>
+              <li><Link to="/pricing" className="hover:text-gold-500 transition-colors">Pricing</Link></li>
+              <li><Link to="/faq" className="hover:text-gold-500 transition-colors">FAQ</Link></li>
               <li><Link to="/contact-us" className="hover:text-gold-500 transition-colors">Contact</Link></li>
               <li><Link to="/terms-and-conditions" className="hover:text-gold-500 transition-colors">Terms of Service</Link></li>
               <li><Link to="/privacy-policy" className="hover:text-gold-500 transition-colors">Privacy Policy</Link></li>

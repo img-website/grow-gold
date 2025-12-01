@@ -12,6 +12,9 @@ import PrivacyPolicy from './components/PrivacyPolicy';
 import TermsAndConditions from './components/TermsAndConditions';
 import ContactUs from './components/ContactUs';
 import RefundPolicy from './components/RefundPolicy';
+import AboutUsPage from './components/AboutUsPage';
+import PricingPage from './components/PricingPage';
+import FAQPage from './components/FAQPage';
 
 const Home: React.FC = () => {
   return (
@@ -35,6 +38,9 @@ const App: React.FC = () => {
     <Router>
       <Routes>
         <Route path="/" element={<Home />} />
+        <Route path="/about-us" element={<AboutUsPage />} />
+        <Route path="/pricing" element={<PricingPage />} />
+        <Route path="/faq" element={<FAQPage />} />
         <Route path="/privacy-policy" element={<PrivacyPolicy />} />
         <Route path="/terms-and-conditions" element={<TermsAndConditions />} />
         <Route path="/contact-us" element={<ContactUs />} />
