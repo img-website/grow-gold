@@ -54,6 +54,7 @@ const ContactUs: React.FC = () => {
                 </div>
                 <h3 className="text-xl font-semibold">Email</h3>
               </div>
+              <p className="text-gray-400"><strong>Website:</strong> growgold.co</p>
               <p className="text-gray-400">support@growgold.com</p>
               <p className="text-gray-500 text-sm mt-2">We'll respond within 24 hours</p>
             </div>

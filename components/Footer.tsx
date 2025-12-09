@@ -70,7 +70,7 @@ const Footer: React.FC = () => {
         {/* Bottom Bar */}
         <div className="border-t border-white/5 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-gray-600 text-sm">
-            &copy; 2025 Grow Gold. All Rights Reserved.
+            &copy; 2025 Grow Gold. All Rights Reserved. | growgold.co
           </p>
           <div className="flex gap-6">
             <div className="h-px w-12 bg-gold-500/50 self-center"></div>

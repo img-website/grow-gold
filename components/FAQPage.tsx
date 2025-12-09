@@ -224,6 +224,7 @@ const FAQPage: React.FC = () => {
             <div className="p-8 rounded-lg border border-gold-500/30 bg-white/5">
               <Mail size={32} className="text-gold-500 mx-auto mb-4" />
               <h3 className="font-bold mb-2">Email Support</h3>
+              <p className="text-gray-400 text-sm mb-2"><strong>Website:</strong> growgold.co</p>
               <p className="text-gray-400 text-sm mb-4">support@growgold.com</p>
               <p className="text-gray-500 text-sm">Response within 24 hours</p>
             </div>

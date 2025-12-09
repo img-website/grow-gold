@@ -75,7 +75,7 @@ const RefundPolicy: React.FC = () => {
             <section id="section-1">
               <h2 className="text-2xl font-serif font-bold mb-4 text-white">1. INTRODUCTION AND SCOPE</h2>
               <p className="text-gray-300 leading-relaxed">
-                This Refund and Cancellation Policy ("Policy") governs all transactions conducted on the GrowGold mobile application and platform ("Platform"), including but not limited to:
+                This Refund and Cancellation Policy ("Policy") governs all transactions conducted on the GrowGold mobile application and platform ("Platform") accessible at growgold.co, including but not limited to:
               </p>
               <ul className="space-y-2 text-gray-300 leading-relaxed mt-4">
                 <li className="flex gap-3">
@@ -1675,6 +1675,7 @@ const RefundPolicy: React.FC = () => {
                 <div className="p-4 bg-dark-800 rounded-lg border border-gold-500/20">
                   <h3 className="text-xl font-semibold mb-2 text-gold-400">For refund or cancellation inquiries:</h3>
                   <p className="text-gray-300 font-semibold">Customer Support</p>
+                  <p className="text-gray-300"><strong>Website:</strong> growgold.co</p>
                   <p className="text-gray-300">Email: support@growgold.com</p>
                   <p className="text-gray-300">Phone: +91-XXXX-XXXXXX</p>
                   <p className="text-gray-300">In-App Chat: Available 24/7</p>
@@ -1682,6 +1683,7 @@ const RefundPolicy: React.FC = () => {
                 </div>
                 <div className="p-4 bg-dark-800 rounded-lg border border-gold-500/20">
                   <h3 className="text-xl font-semibold mb-2 text-gold-400">Grievance Redressal Officer</h3>
+                  <p className="text-gray-300"><strong>Website:</strong> growgold.co</p>
                   <p className="text-gray-300">Email: grievance@growgold.com</p>
                   <p className="text-gray-300">Phone: +91-XXXX-XXXXXX</p>
                   <p className="text-gray-300">Response Timeline: Within 7 business days</p>
@@ -1721,7 +1723,7 @@ const RefundPolicy: React.FC = () => {
                   This Refund and Cancellation Policy is effective from [Date] and was last updated in November 2025.
                 </p>
                 <p className="text-gray-300 mt-2">
-                  For questions or clarifications regarding this Policy, please contact support@growgold.com or call [phone number].
+                  For questions or clarifications regarding this Policy, please visit growgold.co or contact support@growgold.com or call [phone number].
                 </p>
               </div>
             </section>

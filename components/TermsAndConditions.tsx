@@ -304,11 +304,12 @@ const TermsAndConditions: React.FC = () => {
             <section className="pt-8 border-t border-gray-700">
               <h2 className="text-2xl font-serif font-bold mb-4 text-white">12. Agreement to Terms</h2>
               <p className="text-gray-300 leading-relaxed">
-                By accessing and using Grow Gold's website, application, and services, you acknowledge that you have read, understood, and irrevocably agree to be bound by all the terms and conditions outlined in this document, as may be revised from time to time. If you do not agree to any of these terms, you are prohibited from using or accessing this service.
+                By accessing and using Grow Gold's website (growgold.co), application, and services, you acknowledge that you have read, understood, and irrevocably agree to be bound by all the terms and conditions outlined in this document, as may be revised from time to time. If you do not agree to any of these terms, you are prohibited from using or accessing this service.
               </p>
               <div className="mt-10 p-6 bg-dark-800 rounded-lg border border-gold-500/30">
                 <h3 className="text-xl font-serif font-bold mb-2 text-white">Contact Our Legal Team</h3>
                 <p className="text-gray-300 mb-4">For any questions regarding these Terms and Conditions, please contact us at:</p>
+                <p className="text-gray-300"><strong>Website:</strong> growgold.co</p>
                 <p className="text-gray-300"><strong>Email:</strong> legal@growgold.com</p>
                 <p className="text-gray-300"><strong>Registered Address:</strong> Grow Gold Inc., 123 Financial District, New York, NY 10001, USA</p>
                 <p className="text-gray-300 mt-2"><strong>Grievance Officer (India):</strong> grievance.officer@growgold.com</p>

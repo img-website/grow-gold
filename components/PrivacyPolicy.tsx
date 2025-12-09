@@ -18,7 +18,7 @@ const PrivacyPolicy: React.FC = () => {
             <section>
               <h2 className="text-2xl font-serif font-bold mb-4 text-white">1. Introduction</h2>
               <p className="text-gray-300 leading-relaxed">
-                Grow Gold ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website and use our services. We operate in full compliance with applicable Indian laws and regulations, including the Digital Personal Data Protection Act, 2025 (DPDP Act), the Prevention of Money Laundering Act, 2002 (PMLA), and guidelines issued by the Reserve Bank of India (RBI) and the Securities and Exchange Board of India (SEBI).
+                Grow Gold ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website (growgold.co) and use our services. We operate in full compliance with applicable Indian laws and regulations, including the Digital Personal Data Protection Act, 2025 (DPDP Act), the Prevention of Money Laundering Act, 2002 (PMLA), and guidelines issued by the Reserve Bank of India (RBI) and the Securities and Exchange Board of India (SEBI).
               </p>
             </section>
 
@@ -287,7 +287,7 @@ const PrivacyPolicy: React.FC = () => {
             <section>
               <h2 className="text-2xl font-serif font-bold mb-4 text-white">12. Changes to This Policy</h2>
               <p className="text-gray-300 leading-relaxed">
-                We may update this Privacy Policy to reflect changes in our practices, technology, legal requirements, or services. The "Last updated" date at the top will be revised. We will notify you of material changes by posting a notice on our website, via email, or through an in-app notification at least 30 days prior to the changes taking effect, where required by law.
+                We may update this Privacy Policy to reflect changes in our practices, technology, legal requirements, or services. The "Last updated" date at the top will be revised. We will notify you of material changes by posting a notice on our website (growgold.co), via email, or through an in-app notification at least 30 days prior to the changes taking effect, where required by law.
               </p>
             </section>
 
@@ -302,17 +302,20 @@ const PrivacyPolicy: React.FC = () => {
                 <div className="p-5 bg-dark-800 rounded-lg border border-gold-500/20">
                   <h3 className="text-xl font-serif font-bold mb-2 text-white">Data Protection Officer (DPO)</h3>
                   <p className="text-gray-300">For all data privacy inquiries and rights requests.</p>
-                  <p className="text-gray-300 mt-3"><strong>Email:</strong> dpo@growgold.com</p>
+                  <p className="text-gray-300 mt-3"><strong>Website:</strong> growgold.co</p>
+                  <p className="text-gray-300"><strong>Email:</strong> dpo@growgold.com</p>
                 </div>
                 <div className="p-5 bg-dark-800 rounded-lg border border-gold-500/20">
                   <h3 className="text-xl font-serif font-bold mb-2 text-white">Grievance Officer</h3>
                   <p className="text-gray-300">For escalation of unresolved complaints.</p>
-                  <p className="text-gray-300 mt-3"><strong>Email:</strong> grievance.officer@growgold.com</p>
+                  <p className="text-gray-300 mt-3"><strong>Website:</strong> growgold.co</p>
+                  <p className="text-gray-300"><strong>Email:</strong> grievance.officer@growgold.com</p>
                 </div>
               </div>
 
               <div className="mt-6 p-5 bg-dark-800/50 rounded-lg border border-gray-700">
                 <h3 className="text-xl font-semibold mb-2 text-white">Registered Office & Regulatory Escalation</h3>
+                <p className="text-gray-300 mb-2"><strong>Website:</strong> growgold.co</p>
                 <p className="text-gray-300 mb-2"><strong>Address:</strong> Grow Gold Inc., 123 Financial District, New York, NY 10001, USA</p>
                 <p className="text-gray-300 mb-4"><strong>For India Operations:</strong> Grow Gold India Pvt. Ltd., [Indian Registered Office Address]</p>
                 <p className="text-gray-300">
