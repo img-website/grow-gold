@@ -316,8 +316,9 @@ const PrivacyPolicy: React.FC = () => {
               <div className="mt-6 p-5 bg-dark-800/50 rounded-lg border border-gray-700">
                 <h3 className="text-xl font-semibold mb-2 text-white">Registered Office & Regulatory Escalation</h3>
                 <p className="text-gray-300 mb-2"><strong>Website:</strong> growgold.co</p>
-                <p className="text-gray-300 mb-2"><strong>Address:</strong> Grow Gold Inc., 123 Financial District, New York, NY 10001, USA</p>
-                <p className="text-gray-300 mb-4"><strong>For India Operations:</strong> Grow Gold India Pvt. Ltd., [Indian Registered Office Address]</p>
+                <p className="text-gray-300 mb-2"><strong>Registered Address (Retail):</strong> YT Square, Dongaon, Tq. Mehkar, Dist. Buldhana, Maharashtra – 443303</p>
+                <p className="text-gray-300 mb-2"><strong>Bullion Address:</strong> MGS Bullion Daryav Heights, Gandhi Chowk, Akola, Maharashtra – 444006</p>
+                <p className="text-gray-300 mb-4"><strong>For India Operations:</strong> Grow Gold India Pvt. Ltd., YT Square, Dongaon, Tq. Mehkar, Dist. Buldhana, Maharashtra – 443303</p>
                 <p className="text-gray-300">
                   If you are not satisfied with our response, you have the right to lodge a complaint with the <strong>Data Protection Board of India</strong> (once formally constituted under the DPDP Act) or other relevant regulatory authorities like the RBI Ombudsman.
                 </p>

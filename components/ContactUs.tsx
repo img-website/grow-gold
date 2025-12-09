@@ -77,8 +77,12 @@ const ContactUs: React.FC = () => {
                 </div>
                 <h3 className="text-xl font-semibold">Address</h3>
               </div>
-              <p className="text-gray-400">123 Financial District</p>
-              <p className="text-gray-400">New York, NY 10001</p>
+              <p className="text-gray-400"><strong>Retail Address:</strong></p>
+              <p className="text-gray-400">YT Square, Dongaon, Tq. Mehkar</p>
+              <p className="text-gray-400">Dist. Buldhana, Maharashtra – 443303</p>
+              <p className="text-gray-400 mt-3"><strong>Bullion Address:</strong></p>
+              <p className="text-gray-400">MGS Bullion Daryav Heights</p>
+              <p className="text-gray-400">Gandhi Chowk, Akola, Maharashtra – 444006</p>
             </div>
           </div>
 

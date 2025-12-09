@@ -311,7 +311,8 @@ const TermsAndConditions: React.FC = () => {
                 <p className="text-gray-300 mb-4">For any questions regarding these Terms and Conditions, please contact us at:</p>
                 <p className="text-gray-300"><strong>Website:</strong> growgold.co</p>
                 <p className="text-gray-300"><strong>Email:</strong> legal@growgold.com</p>
-                <p className="text-gray-300"><strong>Registered Address:</strong> Grow Gold Inc., 123 Financial District, New York, NY 10001, USA</p>
+                <p className="text-gray-300"><strong>Registered Address (Retail):</strong> YT Square, Dongaon, Tq. Mehkar, Dist. Buldhana, Maharashtra – 443303</p>
+                <p className="text-gray-300"><strong>Bullion Address:</strong> MGS Bullion Daryav Heights, Gandhi Chowk, Akola, Maharashtra – 444006</p>
                 <p className="text-gray-300 mt-2"><strong>Grievance Officer (India):</strong> grievance.officer@growgold.com</p>
               </div>
             </section>
